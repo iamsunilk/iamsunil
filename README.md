@@ -1,10 +1,11 @@
-# 🌟I'm Sunil K🌟
+# 🌟I'm Sunil K 🌟
 
-👋 Hi there! I'm **Sunil**, an Electrical and Electronics Engineer dedicated to solving real-world challenges through innovative solutions. My journey in engineering began with a fascination for how things work, and it has evolved into a passion for creating efficient and scalable applications that bridge the gap between hardware and software.
+👋 Hi there! I'm **Sunil K**, an Electrical and Electronics Engineer dedicated to solving real-world challenges through innovative solutions. My journey in engineering began with a fascination for how things work, and it has evolved into a passion for creating efficient and scalable applications that bridge the gap between hardware and software.
 
 ---
 - 📍 **Location**: Coimbatore, Tamil Nadu
-- 📧 **Email**: [sunilkrishnamoorthy96@gmail.com- 📞 **Phone**: 9363669372
+- 📧 **Email**: [sunilkrishnamoorthy96@gmail.com
+- 📞 **Phone**: 9363669372
 
 ---
 
@@ -83,8 +84,8 @@
 
 ## 🌐 Connect with Me
 
--!LinkedIn - https://www.linkedin.com/in/sunil-krishna96/
--!LeetCode - https://leetcode.com/u/727721euee096/
+- !LinkedIn - https://www.linkedin.com/in/sunil-krishna96/
+- !LeetCode - https://leetcode.com/u/727721euee096/
 
 ---
 
