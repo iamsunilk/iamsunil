@@ -1,4 +1,4 @@
-# 🌟I'm Sunil K🌟
+# 🌟I'm Sunil K 🌟
 
 👋 Hi there! I'm **Sunil**, an Electrical and Electronics Engineer dedicated to solving real-world challenges through innovative solutions. My journey in engineering began with a fascination for how things work, and it has evolved into a passion for creating efficient and scalable applications that bridge the gap between hardware and software.
 
