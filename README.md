@@ -19,6 +19,7 @@
 💻 Java + OOPS
 
 🎓 Education
+
 🎓 B.E. Electrical and Electronics Engineering
 Sri Krishna College of Engineering and Technology, Coimbatore
 2021 – 2025
