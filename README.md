@@ -12,7 +12,7 @@
 ## 🛠️ Skills
 
 ### Hardware Skills
-⚡ **CAN Protocol**
+⚡ **CAN Protocol**-
 🛠️ **Proteus Design Suite**
 🏗️ **AutoCAD**
 🛠️ **SolidWorks**
