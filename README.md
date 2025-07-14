@@ -83,8 +83,8 @@
 
 ## 🌐 Connect with Me
 
--!LinkedIn - https://www.linkedin.com/in/sunil-krishna96/
--!LeetCode - https://leetcode.com/u/727721euee096/
+- !LinkedIn - https://www.linkedin.com/in/sunil-krishna96/
+- !LeetCode - https://leetcode.com/u/727721euee096/
 
 ---
 
