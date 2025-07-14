@@ -91,8 +91,8 @@
 
 ## 🤝 Volunteer Work & Community Service
 
--🌱 **Environmental Awareness Campaigns**: Actively participated in local initiatives to promote environmental sustainability and awareness.
--📚 **Educational Workshops**: Conducted workshops for underprivileged students to foster interest in STEM fields.
--🏥 **Community Health Drives**: Volunteered in organizing and managing health camps in rural areas.
+- 🌱 **Environmental Awareness Campaigns**: Actively participated in local initiatives to promote environmental sustainability and awareness.
+- 📚 **Educational Workshops**: Conducted workshops for underprivileged students to foster interest in STEM fields.
+- 🏥 **Community Health Drives**: Volunteered in organizing and managing health camps in rural areas.
 
 ---
