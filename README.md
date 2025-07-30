@@ -1,104 +1,6 @@
-# 🌟I'm Sunil K 🌟
+# 🌟 Sunil K - Electrical and Electronics Engineer 🌟
 
-👋 Hi there! I'm **Sunil K**, an Electrical and Electronics Engineer dedicated to solving real-world challenges through innovative solutions. My journey in engineering began with a fascination for how things work, and it has evolved into a passion for creating efficient and scalable applications that bridge the gap between hardware and software.
-
----
-📍 **Location**: Coimbatore, Tamil Nadu
-📧 **Email**: [sunilkrishnamoorthy96@gmail.com
-📞 **Phone**: 9363669372
-
----
-
-## 🛠️ Skills
-
-### Hardware Skills
-⚡ **CAN Protocol**
-🛠️ **Proteus Design Suite**
-🏗️ **AutoCAD**
-🛠️ **SolidWorks**
-🏢 **Revit 2025**
-
-### Software Skills
-📊 **PowerBI**
-🧩 **Problem Solving Skills**
-💻 **Java + OOPS**
-
----
-
-## 🎓 Education
-
-🎓 **B.E. Electrical and Electronics Engineering**  
-  Sri Krishna College of Engineering and Technology, Coimbatore  
-  2021 – 2025
-
-🏫 **HSC**  
-  Government Higher Secondary School, Erode  
-  2020 – 2021
-
-🏫 **SSLC**  
-  Government Higher Secondary School, Erode  
-  2018 – 2019
-
----
-
-## 💡 Projects
-
-🚗 **CAN based ECU for E-Mobility body control**
-🌍 **Intelligent Emission Monitoring and Vehicle Service System**
-🏎️ **Designed an Electric go-kart**
-🚙 **Designed brake System for an Adventure class vehicle**
-🎤 **Speed control of DC motor using Voice commands**
-🅿️ **Parking Management Software For Efficient Parking**
-📚 **Student Database for Tutor Analysis**
-
----
-
-## 🏆 Achievements
-
-🥇 Winner of Virtual round award for SEVC 2024
-📜 Certified as Java Developer Associate
-🏅 Finalist of Socio Tech Hackathon-KPRIET, Coimbatore
-🏅 Finalist of Tamil Nadu EDII Hackathon
-🌟 WAVES workshop based on Electric Vehicles-CEG, Guindy
-
----
-
-## 🌟 Soft Skills
-
-🧠 **Leadership**
-😊 **Positive and Enthusiastic**
-💪 **Hard Worker**
-🌱 **Adaptability**
-🎯 **Motivator**
-💡 **Innovative Thinker**
-
----
-
-## 🎯 Interests
-
-🏎️ **Motor Sport**
-🌍 **Travelling**
-📸 **Photography**
-
----
-
-## 🌐 Connect with Me
-
-!LinkedIn - https://www.linkedin.com/in/sunil-krishna96/
-!LeetCode - https://leetcode.com/u/727721euee096/
-
----
-
-## 🤝 Volunteer Work & Community Service
-
-🌱 **Environmental Awareness Campaigns**: Actively participated in local initiatives to promote environmental sustainability and awareness.
-📚 **Educational Workshops**: Conducted workshops for underprivileged students to foster interest in STEM fields.
-🏥 **Community Health Drives**: Volunteered in organizing and managing health camps in rural areas.
-
----
-# 🌟 I'm Sunil K 🌟
-
-👋 Hi there! I'm **Sunil K**, an Electrical and Electronics Engineer dedicated to solving real-world challenges through innovative solutions. My journey in engineering began with a fascination for how things work, and it has evolved into a passion for creating efficient and scalable applications that bridge the gap between hardware and software.
+👋 Hello! I'm **Sunil K**, an aspiring Electrical and Electronics Engineer with a strong passion for solving real-world problems through innovative and scalable solutions. My academic journey and hands-on experience have equipped me with a unique blend of hardware and software skills, enabling me to bridge the gap between engineering principles and modern technology.
 
 ---
 
@@ -108,85 +10,88 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### Hardware Skills
-- ⚡ CAN Protocol  
-- 🛠️ Proteus Design Suite  
-- 🏗️ AutoCAD  
-- 🛠️ SolidWorks  
-- 🏢 Revit 2025  
+### Hardware Proficiencies
+- CAN Protocol
+- Proteus Design Suite
+- AutoCAD
+- SolidWorks
+- Revit 2025
 
-### Software Skills
-- 📊 PowerBI  
-- 🧩 Problem Solving Skills  
-- 💻 Java + OOPS  
+### Software Competencies
+- PowerBI
+- Java with Object-Oriented Programming
+- Problem Solving and Analytical Thinking
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **B.E. Electrical and Electronics Engineering**  
+- **Bachelor of Engineering in Electrical and Electronics Engineering**  
   Sri Krishna College of Engineering and Technology, Coimbatore (2021 – 2025)
 
-- 🏫 **HSC**  
+- **Higher Secondary Certificate (HSC)**  
   Government Higher Secondary School, Erode (2020 – 2021)
 
-- 🏫 **SSLC**  
+- **Secondary School Leaving Certificate (SSLC)**  
   Government Higher Secondary School, Erode (2018 – 2019)
 
 ---
 
 ## 💡 Projects
 
-- 🚗 CAN based ECU for E-Mobility body control  
-- 🌍 Intelligent Emission Monitoring and Vehicle Service System  
-- 🏎️ Designed an Electric go-kart  
-- 🚙 Designed brake System for an Adventure class vehicle  
-- 🎤 Speed control of DC motor using Voice commands  
-- 🅿️ Parking Management Software For Efficient Parking  
-- 📚 Student Database for Tutor Analysis  
+- CAN-based ECU for E-Mobility Body Control
+- Intelligent Emission Monitoring and Vehicle Service System
+- Electric Go-Kart Design
+- Brake System Design for Adventure Class Vehicle
+- Voice-Controlled Speed Regulation of DC Motor
+- Parking Management Software for Efficient Parking
+- Student Database System for Tutor Analysis
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner of Virtual round award for SEVC 2024  
-- 📜 Certified as Java Developer Associate  
-- 🏅 Finalist of Socio Tech Hackathon-KPRIET, Coimbatore  
-- 🏅 Finalist of Tamil Nadu EDII Hackathon  
-- 🌟 WAVES workshop based on Electric Vehicles-CEG, Guindy  
+- Winner of Virtual Round Award – SEVC 2024
+- Certified Java Developer Associate
+- Finalist – Socio Tech Hackathon, KPRIET, Coimbatore
+- Finalist – Tamil Nadu EDII Hackathon
+- Participant – WAVES Workshop on Electric Vehicles, CEG Guindy
 
 ---
 
 ## 🌟 Soft Skills
 
-- 🧠 Leadership  
-- 😊 Positive and Enthusiastic  
-- 💪 Hard Worker  
-- 🌱 Adaptability  
-- 🎯 Motivator  
-- 💡 Innovative Thinker  
+- Leadership and Team Management
+- Positive Attitude and Enthusiasm
+- Strong Work Ethic
+- Adaptability and Resilience
+- Motivational and Innovative Thinking
 
 ---
 
 ## 🎯 Interests
 
-- 🏎️ Motor Sport  
-- 🌍 Travelling  
-- 📸 Photography  
+- Motorsports
+- Traveling and Exploration
+- Photography and Visual Storytelling
 
 ---
 
 ## 🌐 Connect with Me
 
-- !LinkedIn - https://www.linkedin.com/in/sunil-krishna96/
-!LeetCode - https://leetcode.com/u/727721euee096/
-
-
-- 🌱 Environmental Awareness Campaigns  
-- 📚 Educational Workshops for underprivileged students  
-- 🏥 Community Health Drives in rural areas  
+- [LinkedIn](https://www.linkedin.com/in/sunil-krishna96/)
+- [LeetCode](https://leetcode.com/u/727721euee096/)
 
 ---
 
+## 🤝 Volunteer Work & Community Engagement
+
+- Environmental Awareness Campaigns
+- Educational Workshops for Underprivileged Students
+- Community Health Drives in Rural Areas
+
+---
+
+Thank you for visiting my profile! I am always open to collaboration, learning, and contributing to impactful projects.
